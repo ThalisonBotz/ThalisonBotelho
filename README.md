@@ -1,4 +1,3 @@
-## Olá Mundo, meu nome é Thalison Botelho!
 <div align="center">
   <a href="https://github.com/ThalisonBotz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalisonBotz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
