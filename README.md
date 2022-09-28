@@ -1,11 +1,11 @@
-<div align="center">
-  <a href="https://github.com/ThalisonBotz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalisonBotz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thalison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thalison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thalison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thalison-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
-</div>
 
+<h1 align = "center"> Salve✌️ </h1>
+
+<p align = "center"> Atualmente estudante de engenharia da computação e trabalhando com desenvolvimento web voltado para shopify</p>
+
+
+
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalisonBotz&layout=compact&exclude_repo=exposure-fusion" alt="Top Languages" /> &nbsp; &nbsp;
+  <img  src="https://github-readme-stats.vercel.app/api?username=ThalisonBotz&&hide=prs,issues&count_private=true&show_icons=true" alt="Carol github status" width="400" /> 
+</div>
