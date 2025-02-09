@@ -7,7 +7,7 @@ Passionate about technology, I specialize in Shopify development, leading teams,
 📌 **Let's build something amazing together!**
 
 📎 **Useful Links:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/thalison-botelho/) 🎥 [YouTube](https://www.youtube.com/@thalisonbotz) 🌐 [Linktree](https://linktr.ee/ThalisonBotz)  
+🔗 [LinkedIn](https://www.linkedin.com/in/thalison-botelho/) 🎥 [YouTube](https://www.youtube.com/@thalison-botz) 🌐 [Linktree](https://linktr.ee/ThalisonBotelho)  
 
 ---
 
